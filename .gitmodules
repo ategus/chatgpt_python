@@ -1,0 +1,3 @@
+[submodule "ng-video-lecture"]
+	path = ng-video-lecture
+	url = https://github.com/karpathy/ng-video-lecture
